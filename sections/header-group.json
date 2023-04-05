@@ -25,7 +25,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "div.header-wrapper{height:0px;}"
+
       ],
       "settings": {
         "logo_position": "top-center",
