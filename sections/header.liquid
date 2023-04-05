@@ -23,6 +23,15 @@
   {{ 'component-discounts.css' | asset_url | stylesheet_tag }}
   {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
 {%- endif -%}
+{% comment %} APPLY CSS FOR HOME PAGE ONLY {% endcomment %}
+{% if template.name == "index" %} 
+    {% style %}
+      div.header-wrapper{
+          height: 0px !important;
+        }
+      /* APPLY LOGO ANIMATION HERE */
+    {% endstyle %}
+{% endif %}
 
 <noscript>{{ 'component-list-menu.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-search.css' | asset_url | stylesheet_tag }}</noscript>
