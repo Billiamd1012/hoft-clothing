@@ -1,5 +1,17 @@
 {
   "sections": {
+    "6fd83a5b-bedc-4d9a-81fc-93b941752ae8": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "{% style %}\ndiv.header--wrapper {\n  height: 0px;\n}\n{% endstyle %}",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -112,24 +124,12 @@
         "padding_top": 40,
         "padding_bottom": 0
       }
-    },
-    "6fd83a5b-bedc-4d9a-81fc-93b941752ae8": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "div.header--wrapper{height:0px}"
-      ],
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
+    "6fd83a5b-bedc-4d9a-81fc-93b941752ae8",
     "image_banner",
     "featured_collection",
-    "6fbad755-e7e2-495e-93a0-e52b26d6cd9b",
-    "6fd83a5b-bedc-4d9a-81fc-93b941752ae8"
+    "6fbad755-e7e2-495e-93a0-e52b26d6cd9b"
   ]
 }
