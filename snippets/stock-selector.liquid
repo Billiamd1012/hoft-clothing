@@ -1,0 +1,11 @@
+{%- if product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
+    <div class="out_stock_txt">
+        <div class="out_stock_blip"></div>
+        Out of stock
+    </div>
+  {%- else -%}
+    <div class="in_stock_txt">
+        <div class="in_stock_blip"></div>
+        In stock, ready to ship
+    </div>
+  {%- endif -%}

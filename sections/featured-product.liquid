@@ -297,6 +297,9 @@
                 -%}
               {%- when 'custom_liquid' -%}
                 {{ block.settings.custom_liquid }}
+              {%- when 'stock_selector' -%}
+                {%- render 'stock-selector',
+                product: product %}
               {%- when 'rating' -%}
                 {%- if product.metafields.reviews.rating.value != blank -%}
                   {% liquid
