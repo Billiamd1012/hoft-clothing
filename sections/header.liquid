@@ -26,8 +26,21 @@
 {% comment %} APPLY CSS FOR HOME PAGE ONLY {% endcomment %}
 {% if template.name == "index" %} 
     {% style %}
+      @media screen and (max-width: 990px) {
+        .header__heading-logo{
+          height: auto;
+          width: 100px;
+        }
+      }
       div.header-wrapper{
           height: 0px !important;
+          color: white !important;
+        }
+        div.header-wrapper span{
+          color: white !important;
+        }
+        div.header-wrapper a{
+          color: white !important;
         }
       /* APPLY LOGO ANIMATION HERE */
     {% endstyle %}
