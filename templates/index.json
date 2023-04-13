@@ -112,6 +112,15 @@
         "padding_bottom": 36
       }
     },
+    "1db93474-f595-48cb-879d-377958685588": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 50%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "6fbad755-e7e2-495e-93a0-e52b26d6cd9b": {
       "type": "rich-text",
       "disabled": true,
@@ -155,22 +164,13 @@
         "padding_top": 40,
         "padding_bottom": 0
       }
-    },
-    "1db93474-f595-48cb-879d-377958685588": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 50%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "image_banner",
     "fb965ea6-7d0f-4f7b-b707-d48b4359a6dd",
     "featured_collection",
-    "6fbad755-e7e2-495e-93a0-e52b26d6cd9b",
-    "1db93474-f595-48cb-879d-377958685588"
+    "1db93474-f595-48cb-879d-377958685588",
+    "6fbad755-e7e2-495e-93a0-e52b26d6cd9b"
   ]
 }
