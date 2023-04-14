@@ -4,14 +4,13 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "FREE SHIPPING OVER $60 | WORLDWIDE SHIPPING AVAILABLE",
             "text_alignment": "center",
-            "color_scheme": "accent-2",
+            "color_scheme": "background-1",
             "link": ""
           }
         }
