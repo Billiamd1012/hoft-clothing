@@ -474,8 +474,8 @@
     },
     "checkout": {
       "contact": {
-        "email_label": "Enter for VIP Access!",
-        "email_placeholder": "Enter for VIP Access!"
+        "email_label": "Email",
+        "email_placeholder": "Email"
       }
     }
   },
