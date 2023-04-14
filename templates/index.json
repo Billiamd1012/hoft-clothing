@@ -42,53 +42,10 @@
         "show_text_below": false
       }
     },
-    "fb965ea6-7d0f-4f7b-b707-d48b4359a6dd": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15848431255609__fb965ea6-7d0f-4f7b-b707-d48b4359a6dd-1681353082e80d753d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Project Angel",
-            "heading_size": "h1"
-          }
-        },
-        "template--15848431255609__fb965ea6-7d0f-4f7b-b707-d48b4359a6dd-1681353082e80d753d-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Shop Now!<\/p>"
-          }
-        },
-        "template--15848431255609__fb965ea6-7d0f-4f7b-b707-d48b4359a6dd-1681353082e80d753d-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy Now",
-            "button_link": "shopify:\/\/collections\/autumn-drop",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15848431255609__fb965ea6-7d0f-4f7b-b707-d48b4359a6dd-1681353082e80d753d-0",
-        "template--15848431255609__fb965ea6-7d0f-4f7b-b707-d48b4359a6dd-1681353082e80d753d-1",
-        "template--15848431255609__fb965ea6-7d0f-4f7b-b707-d48b4359a6dd-1681353082e80d753d-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 0
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "NEW ARRIVALS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -96,7 +53,7 @@
         "collection": "autumn-drop",
         "products_to_show": 3,
         "columns_desktop": 3,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
@@ -168,7 +125,6 @@
   },
   "order": [
     "image_banner",
-    "fb965ea6-7d0f-4f7b-b707-d48b4359a6dd",
     "featured_collection",
     "1db93474-f595-48cb-879d-377958685588",
     "6fbad755-e7e2-495e-93a0-e52b26d6cd9b"
