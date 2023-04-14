@@ -32,7 +32,7 @@
         "image": "shopify:\/\/shop_images\/IMG_8784.jpg",
         "image_2": "shopify:\/\/shop_images\/IMG_8468.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
