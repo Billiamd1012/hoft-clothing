@@ -459,7 +459,12 @@
         <h1 class="header__heading">
       {%- endif -%}
           <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
-            {%- if settings.logo != blank -%}
+            {% if template.name == "index" %}
+              {% capture image_size %}{{ section.settings.logo_max_width | escape }}{% endcapture %}
+              <img src="{{ 'header-image.svg' | asset_url }}" 
+                  alt="{{ shop.name }}"
+                  style="max-width: {{ image_size }}px;">
+            {%- elsif settings.logo != blank -%}
               <div class="header__heading-logo-wrapper">
                 {%- assign logo_alt = settings.logo.alt | default: shop.name | escape -%}
                 {%- assign logo_height = settings.logo_width | divided_by: settings.logo.aspect_ratio -%}
