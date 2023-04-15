@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "FREE SHIPPING OVER $60 | WORLDWIDE SHIPPING",
+            "text": "FREE SHIPPING OVER $120 | DOMESTIC ONLY",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": ""
