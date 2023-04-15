@@ -1,17 +1,7 @@
 {
   "sections": {
-    "1db93474-f595-48cb-879d-377958685588": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -79,6 +69,15 @@
         "padding_bottom": 36
       }
     },
+    "1db93474-f595-48cb-879d-377958685588": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "99821c87-62f1-4b69-8944-a8b299675208": {
       "type": "featured-collection",
       "settings": {
@@ -108,9 +107,9 @@
     }
   },
   "order": [
-    "1db93474-f595-48cb-879d-377958685588",
     "image_banner",
     "featured_collection",
+    "1db93474-f595-48cb-879d-377958685588",
     "99821c87-62f1-4b69-8944-a8b299675208"
   ]
 }
