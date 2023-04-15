@@ -459,7 +459,7 @@
         <h1 class="header__heading">
       {%- endif -%}
           <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
-            {% if template.name == "index" %}
+            {%- if template.name == "index" -%}
               {% capture image_size %}{{ section.settings.logo_max_width | escape }}{% endcapture %}
               <img src="{{ 'header-image.svg' | asset_url }}" 
                   alt="{{ shop.name }}">
