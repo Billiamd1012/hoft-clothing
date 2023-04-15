@@ -462,8 +462,7 @@
             {% if template.name == "index" %}
               {% capture image_size %}{{ section.settings.logo_max_width | escape }}{% endcapture %}
               <img src="{{ 'header-image.svg' | asset_url }}" 
-                  alt="{{ shop.name }}"
-                  style="max-width: {{ image_size }}px;">
+                  alt="{{ shop.name }}">
             {%- elsif settings.logo != blank -%}
               <div class="header__heading-logo-wrapper">
                 {%- assign logo_alt = settings.logo.alt | default: shop.name | escape -%}
