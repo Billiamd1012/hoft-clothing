@@ -135,8 +135,8 @@
     "checkout_sidebar_background_color": "#ffffff",
     "checkout_heading_font": "Lato",
     "checkout_body_font": "Lato",
-    "checkout_accent_color": "#000000",
-    "checkout_button_color": "#000000",
+    "checkout_accent_color": "#8fceff",
+    "checkout_button_color": "#8fceff",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
