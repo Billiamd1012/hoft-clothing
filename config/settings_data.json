@@ -129,7 +129,7 @@
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/Shirt_front_all_black_f6b15826-d3c3-4af0-aafe-3dfddf8986e0.png",
     "checkout_logo_position": "center",
-    "checkout_logo_size": "large",
+    "checkout_logo_size": "medium",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
