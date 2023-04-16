@@ -32,6 +32,17 @@
           "settings": {
           }
         },
+        "be9794d9-f642-44a5-adff-927b2ecd8acc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "High Quality Denim <br>"
+          }
+        },
+        "378dd016-d772-4651-832f-f66ad91a4aff": {
+          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
+          }
+        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -47,6 +58,18 @@
             "show_gift_card_recipient": false
           }
         },
+        "ca8fe407-ab5d-435d-b60f-b4390b1c91fc": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -54,8 +77,18 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "e6fb81dd-6235-4d82-a80c-31873afa87cd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
           }
         }
       },
@@ -65,10 +98,14 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "be9794d9-f642-44a5-adff-927b2ecd8acc",
+        "378dd016-d772-4651-832f-f66ad91a4aff",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
+        "ca8fe407-ab5d-435d-b60f-b4390b1c91fc",
         "description",
-        "share"
+        "share",
+        "e6fb81dd-6235-4d82-a80c-31873afa87cd"
       ],
       "settings": {
         "enable_sticky_info": true,
