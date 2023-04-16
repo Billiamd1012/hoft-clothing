@@ -7,26 +7,15 @@
         "padding_bottom": 36
       }
     },
-    "16816389377d16e461": {
-      "type": "apps",
+    "cart-footer": {
+      "type": "main-cart-footer",
       "blocks": {
-        "97ac2c79-b5e3-4f8c-810b-52b149313adf": {
+        "ad1b5223-4ae2-4b67-88b9-7f8394799998": {
           "type": "shopify:\/\/apps\/essential-free-shipping-bar\/blocks\/app-block\/4125375e-37c8-4137-949d-c4e1a3aac572",
           "settings": {
             "id": "clgj8d0dw2787181oxuqvsdtge6"
           }
-        }
-      },
-      "block_order": [
-        "97ac2c79-b5e3-4f8c-810b-52b149313adf"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "cart-footer": {
-      "type": "main-cart-footer",
-      "blocks": {
+        },
         "subtotal": {
           "type": "subtotal",
           "settings": {
@@ -39,6 +28,7 @@
         }
       },
       "block_order": [
+        "ad1b5223-4ae2-4b67-88b9-7f8394799998",
         "subtotal",
         "buttons"
       ],
@@ -48,7 +38,6 @@
   },
   "order": [
     "cart-items",
-    "16816389377d16e461",
     "cart-footer"
   ]
 }
