@@ -3148,8 +3148,6 @@ details-disclosure > details {
   }
 }
 
-.password-logo {
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
+.password  .password-header img.password-logo{
+    margin: center;
 }
