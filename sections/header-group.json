@@ -10,7 +10,7 @@
           "settings": {
             "text": "FREE DOMESTIC SHIPPING OVER $150",
             "text_alignment": "center",
-            "color_scheme": "inverse",
+            "color_scheme": "background-1",
             "link": "shopify:\/\/collections\/autumn-drop"
           }
         }
