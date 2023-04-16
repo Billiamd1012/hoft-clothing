@@ -33,16 +33,10 @@
           "settings": {
           }
         },
-        "703e9295-4ee9-42a9-85de-43f5ca416a7e": {
-          "type": "icon-with-text",
+        "eb233eae-0504-4807-b311-a63842f19595": {
+          "type": "custom_liquid",
           "settings": {
-            "layout": "vertical",
-            "icon_1": "truck",
-            "heading_1": "Ready to ship!",
-            "icon_2": "return",
-            "heading_2": "",
-            "icon_3": "truck",
-            "heading_3": ""
+            "custom_liquid": "High Quality! <br> Secret Stash Pocket! <br>"
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
@@ -72,17 +66,16 @@
             "share_label": "Share"
           }
         },
-        "1a433780-0256-441c-a994-99cdefb6500b": {
-          "type": "complementary",
+        "29da5e8f-e93c-4e69-a8c1-6b018aa8743f": {
+          "type": "icon-with-text",
           "settings": {
-            "block_heading": "Pairs well with",
-            "make_collapsible_row": true,
-            "icon": "price_tag",
-            "product_list_limit": 10,
-            "products_per_page": 3,
-            "pagination_style": "counter",
-            "image_ratio": "square",
-            "enable_quick_add": false
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
           }
         }
       },
@@ -92,12 +85,12 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "703e9295-4ee9-42a9-85de-43f5ca416a7e",
+        "eb233eae-0504-4807-b311-a63842f19595",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
         "share",
-        "1a433780-0256-441c-a994-99cdefb6500b"
+        "29da5e8f-e93c-4e69-a8c1-6b018aa8743f"
       ],
       "settings": {
         "enable_sticky_info": true,
