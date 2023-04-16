@@ -35,6 +35,7 @@
         },
         "eb233eae-0504-4807-b311-a63842f19595": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "High Quality! <br> Secret Stash Pocket! <br>"
           }
@@ -54,18 +55,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "29da5e8f-e93c-4e69-a8c1-6b018aa8743f": {
           "type": "icon-with-text",
           "settings": {
@@ -76,6 +65,18 @@
             "heading_2": "Heading",
             "icon_3": "truck",
             "heading_3": "Heading"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -88,9 +89,9 @@
         "eb233eae-0504-4807-b311-a63842f19595",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
+        "29da5e8f-e93c-4e69-a8c1-6b018aa8743f",
         "description",
-        "share",
-        "29da5e8f-e93c-4e69-a8c1-6b018aa8743f"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
