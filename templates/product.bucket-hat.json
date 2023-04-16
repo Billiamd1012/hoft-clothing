@@ -44,7 +44,7 @@
           "type": "inventory",
           "settings": {
             "text_style": "body",
-            "inventory_threshold": 4,
+            "inventory_threshold": 12,
             "show_inventory_quantity": false
           }
         },
@@ -121,7 +121,7 @@
         "template--15851937497145__0db422e9-a41b-4421-a8c3-06553ba67e9f-168161808322c4100a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>HOFT CLOTHING<\/p>",
             "text_style": "body"
           }
         },
