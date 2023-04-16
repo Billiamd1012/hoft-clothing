@@ -476,6 +476,9 @@
       "contact": {
         "email_label": "Email",
         "email_placeholder": "Email"
+      },
+      "throttle": {
+        "cart_summary_heading": "Your bag"
       }
     }
   },
