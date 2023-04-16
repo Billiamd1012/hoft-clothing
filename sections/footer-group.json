@@ -53,8 +53,8 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "newsletter_enable": false,
-        "newsletter_heading": "Subscribe to our emails",
+        "newsletter_enable": true,
+        "newsletter_heading": "Join our exclusive email list!",
         "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": true,
