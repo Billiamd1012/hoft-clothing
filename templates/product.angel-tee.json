@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -35,14 +36,14 @@
           "type": "inventory",
           "settings": {
             "text_style": "body",
-            "inventory_threshold": 4,
+            "inventory_threshold": 3,
             "show_inventory_quantity": false
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
         },
