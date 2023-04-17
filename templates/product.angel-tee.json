@@ -32,6 +32,18 @@
           "settings": {
           }
         },
+        "0b336e97-bb55-42a1-8534-8059c5ec5308": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
+        },
         "781f42e9-6a95-4d20-a509-8bc2005ffc50": {
           "type": "custom_liquid",
           "settings": {
@@ -58,20 +70,9 @@
             "show_gift_card_recipient": false
           }
         },
-        "0b336e97-bb55-42a1-8534-8059c5ec5308": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "heart",
-            "heading_1": "Heading",
-            "icon_2": "return",
-            "heading_2": "Heading",
-            "icon_3": "truck",
-            "heading_3": "Heading"
-          }
-        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -89,11 +90,11 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "0b336e97-bb55-42a1-8534-8059c5ec5308",
         "781f42e9-6a95-4d20-a509-8bc2005ffc50",
         "0b64beff-8138-4d0f-99b0-1ded41c66348",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
-        "0b336e97-bb55-42a1-8534-8059c5ec5308",
         "description",
         "share"
       ],
