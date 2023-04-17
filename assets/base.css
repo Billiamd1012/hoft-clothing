@@ -3149,6 +3149,7 @@ details-disclosure > details {
 }
 
 .site-header__search {
+            margin: 20px;
             display: flex;
             align-items: center;
 }
