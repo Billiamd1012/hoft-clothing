@@ -3148,6 +3148,7 @@ details-disclosure > details {
   }
 }
 
-.password  .password-header img.password-logo{
-    margin: auto;
+.site-header__search {
+            display: flex;
+            align-items: center;
 }
