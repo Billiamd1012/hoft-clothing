@@ -28,7 +28,7 @@
           "type": "button",
           "settings": {
             "button_label": "Email",
-            "button_link": "",
+            "button_link": "mailto:hoftclothing@gmail.com",
             "button_style_secondary": true,
             "button_label_2": "Socials",
             "button_link_2": "",
