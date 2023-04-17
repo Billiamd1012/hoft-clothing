@@ -42,6 +42,50 @@
         "show_text_below": false
       }
     },
+    "4633f8ea-6d85-4d99-95c9-a3880cc5d159": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop Project Angel",
+            "heading_size": "h2"
+          }
+        },
+        "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-0",
+        "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-1",
+        "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -110,6 +154,7 @@
   },
   "order": [
     "image_banner",
+    "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
     "featured_collection",
     "1db93474-f595-48cb-879d-377958685588",
     "99821c87-62f1-4b69-8944-a8b299675208"
