@@ -62,8 +62,8 @@
         "0b336e97-bb55-42a1-8534-8059c5ec5308": {
           "type": "icon-with-text",
           "settings": {
-            "layout": "vertical",
-            "icon_1": "heart",
+            "layout": "horizontal",
+            "icon_1": "dairy",
             "heading_1": "Heading",
             "icon_2": "return",
             "heading_2": "Heading",
