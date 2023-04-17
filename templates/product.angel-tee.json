@@ -29,12 +29,12 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "781f42e9-6a95-4d20-a509-8bc2005ffc50": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
             "custom_liquid": "Highest Quality <br> New Design <br> Designed for greatness"
           }
