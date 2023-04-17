@@ -128,6 +128,7 @@
         },
         "template--15851937497145__0db422e9-a41b-4421-a8c3-06553ba67e9f-168161808322c4100a-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -143,13 +144,56 @@
         "image": "shopify:\/\/shop_images\/IMG_8784.jpg",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a915389f-c15d-4c1d-9f88-b1d694a6e853": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15851937497145__a915389f-c15d-4c1d-9f88-b1d694a6e853-168173481024cb4f19-0": {
+          "type": "column",
+          "settings": {
+            "title": "Worldwide Shipping",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15851937497145__a915389f-c15d-4c1d-9f88-b1d694a6e853-168173481024cb4f19-1": {
+          "type": "column",
+          "settings": {
+            "title": "Customer Satisfaction Gaurantee",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15851937497145__a915389f-c15d-4c1d-9f88-b1d694a6e853-168173481024cb4f19-0",
+        "template--15851937497145__a915389f-c15d-4c1d-9f88-b1d694a6e853-168173481024cb4f19-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -204,6 +248,7 @@
   "order": [
     "main",
     "0db422e9-a41b-4421-a8c3-06553ba67e9f",
+    "a915389f-c15d-4c1d-9f88-b1d694a6e853",
     "related-products",
     "d8deaa92-7854-4e97-a87d-cb064d87f791"
   ]
