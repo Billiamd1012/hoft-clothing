@@ -36,7 +36,6 @@
         },
         "eb233eae-0504-4807-b311-a63842f19595": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
             "custom_liquid": "High Quality! <br> Secret Stash Pocket! <br>"
           }
@@ -70,6 +69,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
