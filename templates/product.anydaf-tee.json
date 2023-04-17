@@ -27,8 +27,15 @@
             "picker_type": "button"
           }
         },
+        "208c4286-e1dc-4586-863a-26c489c4b57e": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Highest Quality <br> New Design <br> Designed for greatness"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -59,6 +66,18 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "da2425ce-bbe5-4d99-a3db-7ec8c1417749": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
         }
       },
       "block_order": [
@@ -66,11 +85,13 @@
         "title",
         "price",
         "variant_picker",
+        "208c4286-e1dc-4586-863a-26c489c4b57e",
         "quantity_selector",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "da2425ce-bbe5-4d99-a3db-7ec8c1417749"
       ],
       "settings": {
         "enable_sticky_info": true,
