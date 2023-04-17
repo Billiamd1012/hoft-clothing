@@ -3148,16 +3148,3 @@ details-disclosure > details {
   }
 }
 
-.site-header__search-input {
-  position: relative;
-  cursor: pointer;
-  opacity: 0;
-  width: 45px;
-  height: 30px;
-  padding: ($gutter-site / 2) 0;
-  font-size: em(13);
-  color: color-control($color-header);
-  background-color: adaptive-color($color-header, 8%);
-  transition: $header-search-transition;
-  z-index: $z-index-header-search-input;
-  min-width: 1px;
