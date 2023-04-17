@@ -32,6 +32,12 @@
           "settings": {
           }
         },
+        "781f42e9-6a95-4d20-a509-8bc2005ffc50": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Highest Quality <br> New Design <br> Designed for greatness"
+          }
+        },
         "0b64beff-8138-4d0f-99b0-1ded41c66348": {
           "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
@@ -83,6 +89,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "781f42e9-6a95-4d20-a509-8bc2005ffc50",
         "0b64beff-8138-4d0f-99b0-1ded41c66348",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
