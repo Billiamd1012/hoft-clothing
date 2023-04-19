@@ -26,10 +26,11 @@
 {% comment %} APPLY CSS FOR HOME PAGE ONLY {% endcomment %}
 {% if template.name == "index" %} 
     {% style %}
-      .search-modal{
-        height:90px;
-      }
+      /* For mobile */
       @media screen and (max-width: 990px) {
+        .search-modal{
+          height: 80px;
+        }
         div.header-wrapper{
           height: 0px;
         }
@@ -48,7 +49,11 @@
           color:black !important;
         }
       }
+      /* For desktop */
       @media screen and (min-width: 990px) {
+        .search-modal{
+          height: 100px;
+        }
         div.header-wrapper{
           height: 0px;
         }
