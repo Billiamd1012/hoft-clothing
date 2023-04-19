@@ -26,6 +26,9 @@
 {% comment %} APPLY CSS FOR HOME PAGE ONLY {% endcomment %}
 {% if template.name == "index" %} 
     {% style %}
+      .search-modal{
+        height:100px;
+      }
       @media screen and (max-width: 990px) {
         div.header-wrapper{
           height: 0px;
