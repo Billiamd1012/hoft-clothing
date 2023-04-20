@@ -138,14 +138,14 @@
         "template--15853915373625__4db23c17-097d-4c00-a836-cac119374439-1681621685c7cddef3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Unique And Uncomparable",
             "heading_size": "h1"
           }
         },
         "template--15853915373625__4db23c17-097d-4c00-a836-cac119374439-1681621685c7cddef3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Unique embroidery design along with the custom logo on the back pocket. Multiple minor details that make this pair of Jorts unlike any other!<\/p>",
             "text_style": "body"
           }
         },
@@ -170,7 +170,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
