@@ -115,14 +115,14 @@
         "template--15851937497145__0db422e9-a41b-4421-a8c3-06553ba67e9f-168161808322c4100a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Stash Bucket-Hat",
             "heading_size": "h1"
           }
         },
         "template--15851937497145__0db422e9-a41b-4421-a8c3-06553ba67e9f-168161808322c4100a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>HOFT CLOTHING<\/p>",
+            "text": "<p>Our bucket-hat is equip with one of kind technology for all your secret goods. Perfect for all senarios, you don't want to miss out on this revolutionary HOFT item! One size fits all, tighten if needed.<\/p>",
             "text_style": "body"
           }
         },
@@ -162,7 +162,7 @@
           "type": "column",
           "settings": {
             "title": "Worldwide Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Receive free express shipping when you spend over $90! In other words buy any two products from the collection and save yourself some money. Yes, it's on the house!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -171,7 +171,7 @@
           "type": "column",
           "settings": {
             "title": "Customer Satisfaction Gaurantee",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We're proud to offer an experience which won't dissapoint. With our extensive research and quality testing, we continually improve our products and customer service.<\/p>",
             "link_label": "",
             "link": ""
           }
