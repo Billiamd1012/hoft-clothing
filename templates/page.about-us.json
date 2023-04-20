@@ -21,11 +21,12 @@
         "template--15855018737721__8d0a4e1b-596e-4215-9286-7807a5e8f590-168173624971953a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>We would love to tell you more about us but we honestly ran out of time, and we know you don't actually care. Just enjoy the products. Love HOFT<\/p>"
           }
         },
         "template--15855018737721__8d0a4e1b-596e-4215-9286-7807a5e8f590-168173624971953a75-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
