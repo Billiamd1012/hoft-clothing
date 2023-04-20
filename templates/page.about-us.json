@@ -54,7 +54,7 @@
     "eab285cb-c2b7-4d78-b084-87980ae82b3b": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 60%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
+        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 90%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
