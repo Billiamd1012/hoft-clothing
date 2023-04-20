@@ -114,14 +114,14 @@
         "template--15853920387129__8d37363e-1faa-442a-95ad-33457eba2546-1681735266e4805ad3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Classic & Classy",
             "heading_size": "h1"
           }
         },
         "template--15853920387129__8d37363e-1faa-442a-95ad-33457eba2546-1681735266e4805ad3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>The perfect tee-shirt for all occasions, take it to the beach, to breakfast or a night out, made with the highest quality cotton so you can wear it again and again.<\/p>",
             "text_style": "body"
           }
         },
@@ -140,13 +140,14 @@
         "template--15853920387129__8d37363e-1faa-442a-95ad-33457eba2546-1681735266e4805ad3-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/IMG_7318.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
