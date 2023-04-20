@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
@@ -31,6 +32,12 @@
           "settings": {
           }
         },
+        "88f2fab3-0098-463f-a017-f729f3fe4c59": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Introducing the HOFT Originals Tee."
+          }
+        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -42,17 +49,19 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -64,6 +73,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "88f2fab3-0098-463f-a017-f729f3fe4c59",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
