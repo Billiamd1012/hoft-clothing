@@ -63,16 +63,17 @@
           "type": "icon-with-text",
           "settings": {
             "layout": "horizontal",
-            "icon_1": "heart",
-            "heading_1": "Heading",
-            "icon_2": "return",
-            "heading_2": "Heading",
-            "icon_3": "truck",
-            "heading_3": "Heading"
+            "icon_1": "lightning_bolt",
+            "heading_1": "Limited",
+            "icon_2": "stopwatch",
+            "heading_2": "Selling Quick",
+            "icon_3": "plane",
+            "heading_3": "Fast Ship"
           }
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
