@@ -10,15 +10,15 @@
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {
+          }
+        },
         "ad1b5223-4ae2-4b67-88b9-7f8394799998": {
           "type": "shopify:\/\/apps\/essential-free-shipping-bar\/blocks\/app-block\/4125375e-37c8-4137-949d-c4e1a3aac572",
           "settings": {
             "id": "clgj8d0dw2787181oxuqvsdtge6"
-          }
-        },
-        "subtotal": {
-          "type": "subtotal",
-          "settings": {
           }
         },
         "buttons": {
@@ -28,8 +28,8 @@
         }
       },
       "block_order": [
-        "ad1b5223-4ae2-4b67-88b9-7f8394799998",
         "subtotal",
+        "ad1b5223-4ae2-4b67-88b9-7f8394799998",
         "buttons"
       ],
       "settings": {
