@@ -39,17 +39,17 @@
             "custom_liquid": "High Quality Denim <br>\nRelaxed Unisex Fit <br>"
           }
         },
-        "378dd016-d772-4651-832f-f66ad91a4aff": {
-          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
             "text_style": "body",
             "inventory_threshold": 5,
             "show_inventory_quantity": false
+          }
+        },
+        "378dd016-d772-4651-832f-f66ad91a4aff": {
+          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
           }
         },
         "buy_buttons": {
@@ -92,8 +92,8 @@
         "variant_picker",
         "quantity_selector",
         "be9794d9-f642-44a5-adff-927b2ecd8acc",
-        "378dd016-d772-4651-832f-f66ad91a4aff",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
+        "378dd016-d772-4651-832f-f66ad91a4aff",
         "buy_buttons",
         "ca8fe407-ab5d-435d-b60f-b4390b1c91fc",
         "description",
