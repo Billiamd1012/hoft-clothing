@@ -131,14 +131,14 @@
         "template--15853920354361__0b898a70-6d19-4a0e-a3d8-91559c0f9301-1681735266e4805ad3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Made To Impress",
             "heading_size": "h1"
           }
         },
         "template--15853920354361__0b898a70-6d19-4a0e-a3d8-91559c0f9301-1681735266e4805ad3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Summer season just got better, with the newest range of AnyDaf by HOFT. Add a new pair of sunnies to your wardrobe and stand out of the crowd.<\/p>",
             "text_style": "body"
           }
         },
@@ -157,7 +157,8 @@
         "template--15853920354361__0b898a70-6d19-4a0e-a3d8-91559c0f9301-1681735266e4805ad3-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/IMG_6871.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -176,8 +177,8 @@
         "template--15853920354361__8acc9288-1924-415a-99ff-f13adc0a2435-168173481024cb4f19-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Free Shipping Over $90",
+            "text": "<p>Receive free express shipping when you spend over $90! In other words buy any two products from the collection and save yourself some money. Yes, it's on the house!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -185,8 +186,8 @@
         "template--15853920354361__8acc9288-1924-415a-99ff-f13adc0a2435-168173481024cb4f19-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Customer Satisfaction Gaurantee",
+            "text": "<p>We're proud to offer an experience which won't dissapoint. With our extensive research and quality testing, we continually improve our products and customer service.<\/p>",
             "link_label": "",
             "link": ""
           }
