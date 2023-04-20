@@ -33,6 +33,12 @@
           "settings": {
           }
         },
+        "b57c8cbe-3278-4c97-b9d1-9381c5ba9158": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "\"Greatest Of All Time\", Cameron Smith Tee. For the True Fans."
+          }
+        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -50,11 +56,13 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -66,6 +74,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "b57c8cbe-3278-4c97-b9d1-9381c5ba9158",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
