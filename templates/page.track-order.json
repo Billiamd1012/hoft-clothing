@@ -21,14 +21,14 @@
         "template--15855018704953__3b674845-0b94-4d21-82d3-c411df1e5488-168173624971953a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Every individual has personalised tracking attached to their order. If you have still not had any movement from your tracking, please feel free to contact us so we can investigate. <\/p><p>Please check your order for domestic orders:<\/p>"
           }
         },
         "template--15855018704953__3b674845-0b94-4d21-82d3-c411df1e5488-168173624971953a75-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Australia Post Tracking",
+            "button_link": "https:\/\/auspost.com.au\/mypost\/track\/#\/search",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
