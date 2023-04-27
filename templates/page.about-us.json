@@ -21,7 +21,7 @@
         "template--15855018737721__8d0a4e1b-596e-4215-9286-7807a5e8f590-168173624971953a75-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We would love to tell you more about us but we honestly ran out of time, and we know you don't actually care. Just enjoy the products. Love HOFT<\/p>"
+            "text": "<p>\"Gold Coast Based. Established in 2022. Not just another clothing brand. <\/p><p>AnyDaf? Shop our range of clothing.\"<\/p>"
           }
         },
         "template--15855018737721__8d0a4e1b-596e-4215-9286-7807a5e8f590-168173624971953a75-2": {
@@ -53,6 +53,7 @@
     },
     "eab285cb-c2b7-4d78-b084-87980ae82b3b": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 90%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> \n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/70e6361a4cfb46dfab4ecec24711a1d7.mp4\">\n<\/video>",
         "color_scheme": "background-1",
