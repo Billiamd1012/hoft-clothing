@@ -49,7 +49,7 @@
           "type": "heading",
           "settings": {
             "heading": "SHOP ANGEL PROJECT",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--15848431255609__524d2a31-e4bc-4c7b-b64e-6d832de1d35a-168260211249c6f828-1": {
@@ -83,6 +83,50 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "50d3ee44-bcdd-4a78-9c88-3c7bf420066b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>FREE DOMESTIC SHIPPING OVER $90!<\/em><\/p>"
+          }
+        },
+        "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-0",
+        "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-1",
+        "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -129,7 +173,7 @@
           "type": "heading",
           "settings": {
             "heading": "SHOP ANYDAF COLLECTION",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-1": {
@@ -197,6 +241,7 @@
   "order": [
     "image_banner",
     "524d2a31-e4bc-4c7b-b64e-6d832de1d35a",
+    "50d3ee44-bcdd-4a78-9c88-3c7bf420066b",
     "featured_collection",
     "1db93474-f595-48cb-879d-377958685588",
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
