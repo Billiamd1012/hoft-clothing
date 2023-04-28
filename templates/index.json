@@ -2,6 +2,7 @@
   "sections": {
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15848431255609__4bb2634a-a212-4e57-bbb7-2d9a760a7a77-1682675024b05b22e0-1": {
           "type": "slide",
@@ -76,7 +77,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -104,7 +104,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_9031.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_9013.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
