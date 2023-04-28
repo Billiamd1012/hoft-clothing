@@ -44,6 +44,18 @@
           "settings": {
           }
         },
+        "0b336e97-bb55-42a1-8534-8059c5ec5308": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "lightning_bolt",
+            "heading_1": "Limited",
+            "icon_2": "stopwatch",
+            "heading_2": "Selling Quick",
+            "icon_3": "plane",
+            "heading_3": "Fast Ship"
+          }
+        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -57,18 +69,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "0b336e97-bb55-42a1-8534-8059c5ec5308": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "lightning_bolt",
-            "heading_1": "Limited",
-            "icon_2": "stopwatch",
-            "heading_2": "Selling Quick",
-            "icon_3": "plane",
-            "heading_3": "Fast Ship"
           }
         },
         "description": {
@@ -93,9 +93,9 @@
         "quantity_selector",
         "781f42e9-6a95-4d20-a509-8bc2005ffc50",
         "0b64beff-8138-4d0f-99b0-1ded41c66348",
+        "0b336e97-bb55-42a1-8534-8059c5ec5308",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
-        "0b336e97-bb55-42a1-8534-8059c5ec5308",
         "description",
         "share"
       ],
