@@ -35,8 +35,26 @@
         },
         "be9794d9-f642-44a5-adff-927b2ecd8acc": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "High Quality Denim <br>\nRelaxed Unisex Fit <br>"
+          }
+        },
+        "ca8fe407-ab5d-435d-b60f-b4390b1c91fc": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "lightning_bolt",
+            "heading_1": "Limited",
+            "icon_2": "stopwatch",
+            "heading_2": "Selling Quick",
+            "icon_3": "plane",
+            "heading_3": "Fast Ship"
+          }
+        },
+        "378dd016-d772-4651-832f-f66ad91a4aff": {
+          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+          "settings": {
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
@@ -47,28 +65,11 @@
             "show_inventory_quantity": false
           }
         },
-        "378dd016-d772-4651-832f-f66ad91a4aff": {
-          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "ca8fe407-ab5d-435d-b60f-b4390b1c91fc": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "lightning_bolt",
-            "heading_1": "Limited",
-            "icon_2": "stopwatch",
-            "heading_2": "Selling Quick",
-            "icon_3": "plane",
-            "heading_3": "Fast Ship"
           }
         },
         "description": {
@@ -92,10 +93,10 @@
         "variant_picker",
         "quantity_selector",
         "be9794d9-f642-44a5-adff-927b2ecd8acc",
-        "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
-        "378dd016-d772-4651-832f-f66ad91a4aff",
-        "buy_buttons",
         "ca8fe407-ab5d-435d-b60f-b4390b1c91fc",
+        "378dd016-d772-4651-832f-f66ad91a4aff",
+        "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
+        "buy_buttons",
         "description",
         "share"
       ],
