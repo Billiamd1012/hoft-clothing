@@ -45,19 +45,19 @@
             "heading_3": "Fast Ship"
           }
         },
+        "6726f3b4-707c-401c-b4d2-0e16e98f8b05": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": false
+          }
+        },
         "3326cdc3-3d5c-4b1d-8f29-3dff293279e8": {
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
             "custom_liquid": "Secret Stash Pocket! <br>"
-          }
-        },
-        "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 18,
-            "show_inventory_quantity": false
           }
         },
         "buy_buttons": {
@@ -94,8 +94,8 @@
         "variant_picker",
         "quantity_selector",
         "29da5e8f-e93c-4e69-a8c1-6b018aa8743f",
+        "6726f3b4-707c-401c-b4d2-0e16e98f8b05",
         "3326cdc3-3d5c-4b1d-8f29-3dff293279e8",
-        "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "eb233eae-0504-4807-b311-a63842f19595",
         "description",
