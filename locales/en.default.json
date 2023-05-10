@@ -261,7 +261,7 @@
       }
     },
     "cart": {
-      "title": "Don't miss out!",
+      "title": "",
       "caption": "Cart items",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
