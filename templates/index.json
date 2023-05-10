@@ -249,7 +249,7 @@
           "type": "heading",
           "settings": {
             "heading": "ANYDAF COLLECTION",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-1": {
@@ -297,7 +297,7 @@
         "collection": "anydaf-collection",
         "products_to_show": 7,
         "columns_desktop": 3,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
