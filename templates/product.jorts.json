@@ -52,11 +52,6 @@
             "heading_3": "Fast Ship"
           }
         },
-        "378dd016-d772-4651-832f-f66ad91a4aff": {
-          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/size-chart\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -74,7 +69,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
@@ -94,7 +88,6 @@
         "quantity_selector",
         "be9794d9-f642-44a5-adff-927b2ecd8acc",
         "ca8fe407-ab5d-435d-b60f-b4390b1c91fc",
-        "378dd016-d772-4651-832f-f66ad91a4aff",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
