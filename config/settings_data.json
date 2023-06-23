@@ -162,14 +162,14 @@
         "settings": {
         }
       },
-      "1143683040400472741": {
-        "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/trustoo-review-switch\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-        "disabled": true,
+      "15079184273603081885": {
+        "type": "shopify:\/\/apps\/essential-free-shipping-bar\/blocks\/app_embed\/4125375e-37c8-4137-949d-c4e1a3aac572",
+        "disabled": false,
         "settings": {
         }
       },
-      "15079184273603081885": {
-        "type": "shopify:\/\/apps\/essential-free-shipping-bar\/blocks\/app_embed\/4125375e-37c8-4137-949d-c4e1a3aac572",
+      "1143683040400472741": {
+        "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/trustoo-review-switch\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
         "disabled": false,
         "settings": {
         }
