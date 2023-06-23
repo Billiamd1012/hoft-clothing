@@ -43,7 +43,7 @@
         "157ae93a-b53f-4d09-b710-653909a75dd6": {
           "type": "link_list",
           "settings": {
-            "heading": "Customer Care",
+            "heading": "",
             "menu": "footer"
           }
         }
@@ -54,7 +54,7 @@
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,
-        "newsletter_heading": "Join our exclusive email list!",
+        "newsletter_heading": "",
         "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": true,
