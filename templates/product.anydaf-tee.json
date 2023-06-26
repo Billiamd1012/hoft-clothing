@@ -29,6 +29,7 @@
         },
         "208c4286-e1dc-4586-863a-26c489c4b57e": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "Highest Quality <br> Screen Printed <br> Classic Fit"
           }
@@ -37,6 +38,18 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {
+          }
+        },
+        "da2425ce-bbe5-4d99-a3db-7ec8c1417749": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "lightning_bolt",
+            "heading_1": "Limited",
+            "icon_2": "stopwatch",
+            "heading_2": "Selling Quick",
+            "icon_3": "plane",
+            "heading_3": "Fast Ship"
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
@@ -50,7 +63,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
@@ -66,18 +79,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "da2425ce-bbe5-4d99-a3db-7ec8c1417749": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "lightning_bolt",
-            "heading_1": "Limited",
-            "icon_2": "stopwatch",
-            "heading_2": "Selling Quick",
-            "icon_3": "plane",
-            "heading_3": "Fast Ship"
-          }
         }
       },
       "block_order": [
@@ -87,11 +88,11 @@
         "variant_picker",
         "208c4286-e1dc-4586-863a-26c489c4b57e",
         "quantity_selector",
+        "da2425ce-bbe5-4d99-a3db-7ec8c1417749",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
-        "share",
-        "da2425ce-bbe5-4d99-a3db-7ec8c1417749"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
