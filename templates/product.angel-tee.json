@@ -21,6 +21,25 @@
           "settings": {
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "781f42e9-6a95-4d20-a509-8bc2005ffc50": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "Highest Quality <br> New Design <br> Designed for greatness"
+          }
+        },
         "0b336e97-bb55-42a1-8534-8059c5ec5308": {
           "type": "icon-with-text",
           "settings": {
@@ -31,24 +50,6 @@
             "heading_2": "Selling Quick",
             "icon_3": "plane",
             "heading_3": "Fast Ship"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "781f42e9-6a95-4d20-a509-8bc2005ffc50": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "Highest Quality <br> New Design <br> Designed for greatness"
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
@@ -84,10 +85,10 @@
         "vendor",
         "title",
         "price",
-        "0b336e97-bb55-42a1-8534-8059c5ec5308",
         "variant_picker",
         "quantity_selector",
         "781f42e9-6a95-4d20-a509-8bc2005ffc50",
+        "0b336e97-bb55-42a1-8534-8059c5ec5308",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
