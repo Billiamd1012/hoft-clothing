@@ -52,6 +52,14 @@
             "heading_3": "Fast Ship"
           }
         },
+        "2b9f73d7-8d14-4ea3-a0dc-f7f0b39d6e77": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "Size Chart",
+            "page": "contact"
+          }
+        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -69,6 +77,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -88,6 +97,7 @@
         "quantity_selector",
         "be9794d9-f642-44a5-adff-927b2ecd8acc",
         "ca8fe407-ab5d-435d-b60f-b4390b1c91fc",
+        "2b9f73d7-8d14-4ea3-a0dc-f7f0b39d6e77",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
