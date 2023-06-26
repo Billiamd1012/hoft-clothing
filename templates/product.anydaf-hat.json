@@ -36,7 +36,7 @@
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "Restocking April 6th. <br> Limited Quantities. <br>"
+            "custom_liquid": "Restocking July 6th. <br> Limited Quantities. <br>"
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
@@ -66,18 +66,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "da82b74f-ebc9-4386-ac8f-b610bab352f2": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "lightning_bolt",
-            "heading_1": "Limited",
-            "icon_2": "stopwatch",
-            "heading_2": "Selling Quick",
-            "icon_3": "plane",
-            "heading_3": "Fast Ship"
-          }
         }
       },
       "block_order": [
@@ -90,8 +78,7 @@
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
-        "share",
-        "da82b74f-ebc9-4386-ac8f-b610bab352f2"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
