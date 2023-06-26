@@ -43,13 +43,13 @@
           "settings": {
             "text_style": "body",
             "inventory_threshold": 4,
-            "show_inventory_quantity": false
+            "show_inventory_quantity": true
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
