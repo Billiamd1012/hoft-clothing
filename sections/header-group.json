@@ -4,14 +4,13 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "FREE DOMESTIC SHIPPING OVER $90",
             "text_alignment": "center",
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "link": "shopify:\/\/collections\/autumn-drop"
           }
         }
