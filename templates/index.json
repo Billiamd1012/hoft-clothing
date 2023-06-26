@@ -321,6 +321,48 @@
       "settings": {
         "custom_liquid": "<script>\n    \/\/Announcement bar messages\n    let messages = [\n        \"ANYDAF RESTOCK | DROPPING JULY 6TH\",\n        \"OUR NEW COLLECTION | PROJECT ANGEL\",\n        \"FREE DOMESTIC SHIPPING OVER $90\"\n    ];\n    let intervalMs = 2000; \/\/Time between messages changing, in millisecond\n    let element = document.getElementsByClassName(\"announcement-bar__message\")[0].children[0], i = 1;\n\n    function changeAnnouncement() {\n        element.innerHTML = messages[i % messages.length];\n        i++;\n    }\n\n    if (element != null)\n        setInterval(changeAnnouncement, intervalMs);\n\n    \/\/Uncomment the code below (remove '\/\/') to make the announcement bar sticky\n    \/\/ let announcement_section = document.getElementsByClassName(\"announcement-bar-section\")[0];\n     \/\/ announcement_section.classList.add(\"announcement-stay-sticky\");\n<\/script>",
         "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0",
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1",
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -335,6 +377,7 @@
     "1db93474-f595-48cb-879d-377958685588",
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
     "99821c87-62f1-4b69-8944-a8b299675208",
-    "6385f5e3-c7f1-4c50-ac1e-f18b79b00707"
+    "6385f5e3-c7f1-4c50-ac1e-f18b79b00707",
+    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa"
   ]
 }
