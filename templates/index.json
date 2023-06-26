@@ -121,7 +121,6 @@
     },
     "524d2a31-e4bc-4c7b-b64e-6d832de1d35a": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15848431255609__524d2a31-e4bc-4c7b-b64e-6d832de1d35a-168260211249c6f828-0": {
           "type": "heading",
@@ -179,7 +178,7 @@
         "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-1": {
           "type": "text",
           "settings": {
-            "text": "<h6><em>FREE DOMESTIC SHIPPING OVER $90!<\/em><\/h6>"
+            "text": "<h6><em><strong>FREE DOMESTIC SHIPPING OVER $90!<\/strong><\/em><\/h6>"
           }
         },
         "template--15848431255609__50d3ee44-bcdd-4a78-9c88-3c7bf420066b-168260211249c6f828-2": {
@@ -294,7 +293,7 @@
         "template--15848431255609__7c9818e9-7923-42da-b8ba-2dd01497570b-1687775413cb29b080-1": {
           "type": "text",
           "settings": {
-            "text": "<p>DROPPING JULY 6TH, 6PM.<\/p>"
+            "text": "<p><em>DROPPING JULY 6TH, 6PM.<\/em><\/p>"
           }
         },
         "template--15848431255609__7c9818e9-7923-42da-b8ba-2dd01497570b-1687775413cb29b080-2": {
