@@ -29,11 +29,13 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "ae49653c-7530-4de8-b35c-5d76ee41f661": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "Restocking July 6th. <br> Limited Quantities."
           }
