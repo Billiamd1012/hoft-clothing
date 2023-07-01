@@ -448,7 +448,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "anydaf-collection",
-        "products_to_show": 7,
+        "products_to_show": 8,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
