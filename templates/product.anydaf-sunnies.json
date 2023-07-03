@@ -165,8 +165,8 @@
         "template--15853920354361__8acc9288-1924-415a-99ff-f13adc0a2435-168173481024cb4f19-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping Over $90",
-            "text": "<p>Receive free express shipping when you spend over $90! In other words buy any two products from the collection and save yourself some money. Yes, it's on the house!<\/p>",
+            "title": "Free Shipping Over $60",
+            "text": "<p>Receive free express shipping when you spend over $60! In other words buy any two products from the collection and save yourself some money. Yes, it's on the house!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -201,12 +201,78 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "4d4577ff-baf1-42d0-8c58-85ce5277db0d": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Free Shipping",
+            "icon": "plane",
+            "row_content": "<p>You heard it right! Receive FREE shipping when you spend over $60! In other words buy any two products from the collection and save yourself some money.<\/p>",
+            "page": ""
+          }
+        },
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-1": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-2": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-3": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-0",
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-1",
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-2",
+        "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "related-products",
     "0b898a70-6d19-4a0e-a3d8-91559c0f9301",
-    "8acc9288-1924-415a-99ff-f13adc0a2435"
+    "8acc9288-1924-415a-99ff-f13adc0a2435",
+    "4d4577ff-baf1-42d0-8c58-85ce5277db0d"
   ]
 }
