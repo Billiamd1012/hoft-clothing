@@ -1,7 +1,62 @@
 {
   "sections": {
+    "1cc30c67-8f85-49d2-a88b-73b7e556ad46": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-0",
+        "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15848431255609__4bb2634a-a212-4e57-bbb7-2d9a760a7a77-1682675024b05b22e0-1": {
           "type": "slide",
@@ -159,7 +214,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 24,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
@@ -473,7 +528,7 @@
     "6385f5e3-c7f1-4c50-ac1e-f18b79b00707": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script>\n    \/\/Announcement bar messages\n    let messages = [\n        \"FREE EXPRESS SHIPPING OVER $90\",\n        \"PROJECT ANGEL COLLECTION\",\n        \"SHOP NOW | ANYDAF COLLECTION\"\n    ];\n    let intervalMs = 2500; \/\/Time between messages changing, in millisecond\n    let element = document.getElementsByClassName(\"announcement-bar__message\")[0].children[0], i = 1;\n\n    function changeAnnouncement() {\n        element.innerHTML = messages[i % messages.length];\n        i++;\n    }\n\n    if (element != null)\n        setInterval(changeAnnouncement, intervalMs);\n\n    \/\/Uncomment the code below (remove '\/\/') to make the announcement bar sticky\n    \/\/ let announcement_section = document.getElementsByClassName(\"announcement-bar-section\")[0];\n     \/\/ announcement_section.classList.add(\"announcement-stay-sticky\");\n<\/script>",
+        "custom_liquid": "<script>\n    \/\/Announcement bar messages\n    let messages = [\n        \"FREE EXPRESS SHIPPING OVER $60\",\n        \"PROJECT ANGEL COLLECTION\",\n        \"SHOP NOW | ANYDAF COLLECTION\"\n    ];\n    let intervalMs = 2500; \/\/Time between messages changing, in millisecond\n    let element = document.getElementsByClassName(\"announcement-bar__message\")[0].children[0], i = 1;\n\n    function changeAnnouncement() {\n        element.innerHTML = messages[i % messages.length];\n        i++;\n    }\n\n    if (element != null)\n        setInterval(changeAnnouncement, intervalMs);\n\n    \/\/Uncomment the code below (remove '\/\/') to make the announcement bar sticky\n    \/\/ let announcement_section = document.getElementsByClassName(\"announcement-bar-section\")[0];\n     \/\/ announcement_section.classList.add(\"announcement-stay-sticky\");\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -481,6 +536,7 @@
     }
   },
   "order": [
+    "1cc30c67-8f85-49d2-a88b-73b7e556ad46",
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77",
     "image_banner",
     "e81dd83d-b8ef-4e95-baba-ddbedaf59daa",
