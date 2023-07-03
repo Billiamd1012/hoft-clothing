@@ -35,7 +35,6 @@
         },
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
             "custom_liquid": "{% if product.variants.first.inventory_quantity <100 %}\n\n<p>Only <strong>{{product.variants.first.inventory_quantity }}<\/strong> left in stock!<\/p>\n\n{% endif %}"
           }
@@ -193,12 +192,12 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
