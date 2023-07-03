@@ -36,7 +36,7 @@
         "ae49653c-7530-4de8-b35c-5d76ee41f661": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "Restocking July 6th. <br> Limited Quantities."
+            "custom_liquid": "{% if product.variants.first.inventory_quantity <100 %}\n\n<p>Only <strong>{{product.variants.first.inventory_quantity }}<\/strong> left in stock!<\/p>\n\n{% endif %}"
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
@@ -44,7 +44,7 @@
           "settings": {
             "text_style": "body",
             "inventory_threshold": 4,
-            "show_inventory_quantity": true
+            "show_inventory_quantity": false
           }
         },
         "buy_buttons": {
