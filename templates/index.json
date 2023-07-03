@@ -119,6 +119,86 @@
         "show_text_below": false
       }
     },
+    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ANYDAF",
+            "heading_size": "h1"
+          }
+        },
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0",
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1",
+        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "anydaf-july-6th",
+        "products_to_show": 6,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "1db93474-f595-48cb-879d-377958685588": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> !important\n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7cac801a6940490d8f752fbf8701bb61.mp4\">\n<\/video>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "524d2a31-e4bc-4c7b-b64e-6d832de1d35a": {
       "type": "rich-text",
       "blocks": {
@@ -235,52 +315,9 @@
         "padding_bottom": 32
       }
     },
-    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "COMING SOON.",
-            "heading_size": "h1"
-          }
-        },
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0",
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1",
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 0
-      }
-    },
     "7c9818e9-7923-42da-b8ba-2dd01497570b": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--15848431255609__7c9818e9-7923-42da-b8ba-2dd01497570b-1687775413cb29b080-0": {
           "type": "heading",
@@ -325,6 +362,7 @@
     },
     "40e50995-6aab-406c-ab5e-19f10e15d36b": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "template--15848431255609__40e50995-6aab-406c-ab5e-19f10e15d36b-1688174744e48904e9-0": {
           "type": "heading",
@@ -359,44 +397,9 @@
         "padding_bottom": 16
       }
     },
-    "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "anydaf-july-6th",
-        "products_to_show": 6,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "1db93474-f595-48cb-879d-377958685588": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n \nvideo { \n \ndisplay: block;\nmargin: 0 auto;\nwidth: 100%;\nheight: 40%;\n \n}\n \n<\/style>\n \n \n<video autoplay loop playsinline muted> !important\n<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/7cac801a6940490d8f752fbf8701bb61.mp4\">\n<\/video>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-0": {
           "type": "heading",
@@ -441,6 +444,7 @@
     },
     "99821c87-62f1-4b69-8944-a8b299675208": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -479,14 +483,14 @@
   "order": [
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77",
     "image_banner",
+    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa",
+    "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12",
+    "1db93474-f595-48cb-879d-377958685588",
     "524d2a31-e4bc-4c7b-b64e-6d832de1d35a",
     "50d3ee44-bcdd-4a78-9c88-3c7bf420066b",
     "featured_collection",
-    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa",
     "7c9818e9-7923-42da-b8ba-2dd01497570b",
     "40e50995-6aab-406c-ab5e-19f10e15d36b",
-    "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12",
-    "1db93474-f595-48cb-879d-377958685588",
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
     "99821c87-62f1-4b69-8944-a8b299675208",
     "6385f5e3-c7f1-4c50-ac1e-f18b79b00707"
