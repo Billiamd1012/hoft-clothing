@@ -116,6 +116,22 @@
         "padding_bottom": 12
       }
     },
+    "1688395023a7fb486a": {
+      "type": "apps",
+      "blocks": {
+        "dc9f5fd5-d35b-43fc-973d-d2abc7ca4cdd": {
+          "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "dc9f5fd5-d35b-43fc-973d-d2abc7ca4cdd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "0db422e9-a41b-4421-a8c3-06553ba67e9f": {
       "type": "image-with-text",
       "blocks": {
@@ -254,6 +270,7 @@
   },
   "order": [
     "main",
+    "1688395023a7fb486a",
     "0db422e9-a41b-4421-a8c3-06553ba67e9f",
     "a915389f-c15d-4c1d-9f88-b1d694a6e853",
     "related-products",
