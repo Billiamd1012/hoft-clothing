@@ -126,7 +126,7 @@
         "template--15853920419897__b875d0bc-329b-43f3-9484-8a63cabba413-1681735266e4805ad3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Match your outfit with a clean white hat, with the choice of red or green accents, or stand out and grab all black!<\/p>",
+            "text": "<p>The perfect fit for your fits. Now available in three irresistible colours!  Grab our signature silhouettes in black, navy or blue.<\/p>",
             "text_style": "body"
           }
         },
@@ -161,6 +161,7 @@
     },
     "adcdae6f-6112-43ce-833d-ad091cd8fa22": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--15853920419897__adcdae6f-6112-43ce-833d-ad091cd8fa22-1688393965e44b90b5-0": {
           "type": "collapsible_row",
