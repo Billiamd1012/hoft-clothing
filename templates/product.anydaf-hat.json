@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "Restocking July 6th. <br> Limited Quantities. <br>"
+            "custom_liquid": "{% if product.variants.first.inventory_quantity <100 %}\n\n<p>Only <strong>{{product.variants.first.inventory_quantity }}<\/strong> left in stock!<\/p>\n\n{% endif %}"
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
