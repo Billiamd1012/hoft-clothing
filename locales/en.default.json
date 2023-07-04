@@ -1,8 +1,8 @@
 {
   "general": {
     "password_page": {
-      "login_form_heading": "Enter using owner access:",
-      "login_password_button": "Owner Access",
+      "login_form_heading": "Enter using early access:",
+      "login_password_button": "Early Access",
       "login_form_password_label": "Password",
       "login_form_password_placeholder": "Try your best guess!",
       "login_form_error": "Terrible guess.",
