@@ -18,6 +18,7 @@
         },
         "4c062a6c-884f-4ea9-89d9-e00e316d87ed": {
           "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "disabled": true,
           "settings": {
             "star_size": 16,
             "font_size": 14,
