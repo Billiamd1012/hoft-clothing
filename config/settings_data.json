@@ -173,6 +173,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "146443418480859437": {
+        "type": "shopify:\/\/apps\/swift-page-speed-optimizer\/blocks\/smart-booster\/a10b8339-a20a-4621-a093-32380d49773b",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
