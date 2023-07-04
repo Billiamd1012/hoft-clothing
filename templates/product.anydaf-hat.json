@@ -44,6 +44,7 @@
         },
         "008eb4d8-d3c2-44e0-bccf-087f9d35f609": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "Limited Quantity <br> Perfect Fit <br>"
           }
