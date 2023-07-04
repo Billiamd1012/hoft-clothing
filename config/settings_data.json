@@ -179,6 +179,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "6061165510207759323": {
+        "type": "shopify:\/\/apps\/swift-page-speed-optimizer\/blocks\/custom-loading\/a10b8339-a20a-4621-a093-32380d49773b",
+        "disabled": true,
+        "settings": {
+        }
       }
     }
   },
