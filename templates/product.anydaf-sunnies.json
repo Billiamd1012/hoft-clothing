@@ -35,6 +35,7 @@
         },
         "ae49653c-7530-4de8-b35c-5d76ee41f661": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "{% if product.variants.first.inventory_quantity <100 %}\n\n<p>Only <strong>{{product.variants.first.inventory_quantity }}<\/strong> left in stock!<\/p>\n\n{% endif %}"
           }
