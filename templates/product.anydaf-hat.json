@@ -16,6 +16,14 @@
           "settings": {
           }
         },
+        "4c062a6c-884f-4ea9-89d9-e00e316d87ed": {
+          "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "star_size": 16,
+            "font_size": 14,
+            "block_aligment": "flex-start"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -31,6 +39,12 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {
+          }
+        },
+        "008eb4d8-d3c2-44e0-bccf-087f9d35f609": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Limited Quantity <br> Perfect Fit <br>"
           }
         },
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545": {
@@ -71,9 +85,11 @@
       "block_order": [
         "vendor",
         "title",
+        "4c062a6c-884f-4ea9-89d9-e00e316d87ed",
         "price",
         "variant_picker",
         "quantity_selector",
+        "008eb4d8-d3c2-44e0-bccf-087f9d35f609",
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
