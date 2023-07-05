@@ -43,6 +43,7 @@
         },
         "29da5e8f-e93c-4e69-a8c1-6b018aa8743f": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "vertical",
             "icon_1": "lightning_bolt",
@@ -112,7 +113,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
