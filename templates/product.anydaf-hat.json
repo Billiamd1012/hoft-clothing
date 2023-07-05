@@ -42,13 +42,6 @@
           "settings": {
           }
         },
-        "008eb4d8-d3c2-44e0-bccf-087f9d35f609": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "Limited Quantity <br> Perfect Fit <br>"
-          }
-        },
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545": {
           "type": "custom_liquid",
           "disabled": true,
@@ -69,6 +62,13 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "008eb4d8-d3c2-44e0-bccf-087f9d35f609": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "8 PIT CORDUORY <br> ONE SIZE FITS ALL <br>"
           }
         },
         "description": {
@@ -92,10 +92,10 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "008eb4d8-d3c2-44e0-bccf-087f9d35f609",
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
+        "008eb4d8-d3c2-44e0-bccf-087f9d35f609",
         "description",
         "share"
       ],
