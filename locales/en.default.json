@@ -479,6 +479,9 @@
       },
       "throttle": {
         "cart_summary_heading": "Your cart"
+      },
+      "thank_you": {
+        "login": "Welcome back!"
       }
     }
   },
