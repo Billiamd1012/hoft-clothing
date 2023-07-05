@@ -332,7 +332,7 @@
   },
   "customer": {
     "account": {
-      "title": "Account",
+      "title": "Test",
       "details": "Account details",
       "view_addresses": "View addresses",
       "return": "Return to Account details"
