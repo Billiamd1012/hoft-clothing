@@ -16,6 +16,14 @@
           "settings": {
           }
         },
+        "cd5928c8-4c6d-4659-bef9-aad7b2cd3399": {
+          "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "star_size": 16,
+            "font_size": 14,
+            "block_aligment": "flex-start"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -84,6 +92,7 @@
       "block_order": [
         "vendor",
         "title",
+        "cd5928c8-4c6d-4659-bef9-aad7b2cd3399",
         "price",
         "variant_picker",
         "quantity_selector",
