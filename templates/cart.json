@@ -4,14 +4,14 @@
       "type": "main-cart-items",
       "settings": {
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 8
       }
     },
     "1681980033ef5b5140": {
       "type": "apps",
       "blocks": {
         "97378ae9-04f8-4478-8f80-67f7a549a6ce": {
-          "type": "shopify:\/\/apps\/essential-free-shipping-bar\/blocks\/app-block\/4125375e-37c8-4137-949d-c4e1a3aac572",
+          "type": "shopify:\/\/apps\/essential-shippingbar\/blocks\/app-block\/4125375e-37c8-4137-949d-c4e1a3aac572",
           "settings": {
             "id": "clgj8d0dw2787181oxuqvsdtge6"
           }
