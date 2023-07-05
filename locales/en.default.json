@@ -480,9 +480,6 @@
       "throttle": {
         "cart_summary_heading": "Your cart"
       }
-    },
-    "page_titles": {
-      "account": "test"
     }
   },
   "pagefly": {
@@ -528,6 +525,13 @@
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
+    }
+  },
+  "customer_accounts": {
+    "navigation_and_structure": {
+      "account_menu": {
+        "label": "test"
+      }
     }
   }
 }
