@@ -480,6 +480,9 @@
       "throttle": {
         "cart_summary_heading": "Your cart"
       }
+    },
+    "page_titles": {
+      "account": "test"
     }
   },
   "pagefly": {
