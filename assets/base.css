@@ -3147,5 +3147,17 @@ details-disclosure > details {
     100% { transform: rotate(360deg) translateX(1em) rotate(-360deg) scale(1.2); }
   }
 }
-.card__badge {position: flex !important;}
+{% comment %}
+.card__badge {position: center !important;}
+{% endcomment %}
 
+.collection .product-sold-out .card__badge {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%);
+	display: block;
+}
+
+.collection .product-sold-out .card__inner > div:first-of-type {
+	opacity: 0.5;
+}
