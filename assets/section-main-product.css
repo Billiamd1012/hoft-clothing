@@ -1600,8 +1600,8 @@ a.product__text {
   }
 }
 .card__badge {
-	top: 50%;
-	left: 50%;
+	top: 100%;
+	right: 50%;
 	transform: translate(50%);
 	display: block;
 }
