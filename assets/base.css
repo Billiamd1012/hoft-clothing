@@ -3148,7 +3148,7 @@ details-disclosure > details {
   }
 }
 
-.collection .product-sold-out .card__badge {
+.card__badge {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%);
