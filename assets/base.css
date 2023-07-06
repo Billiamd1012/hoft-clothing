@@ -3147,7 +3147,8 @@ details-disclosure > details {
     100% { transform: rotate(360deg) translateX(1em) rotate(-360deg) scale(1.2); }
   }
 }
-.card__content .badge.color-background-1 {
+.sold_out_badge_color_scheme .badge.color-background-1 {
     display: none !important;
 }
+.
 
