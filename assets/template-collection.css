@@ -78,3 +78,4 @@
 .collection__view-all a:not(.link) {
   margin-top: 1rem;
 }
+.collection-list .product .badge--sold-out {display: none;} !important
