@@ -3152,7 +3152,7 @@ details-disclosure > details {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%);
-	display: block;
+	display: flex;
 }
 
 .collection .product-sold-out .card__inner > div:first-of-type {
