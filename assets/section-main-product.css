@@ -1599,9 +1599,3 @@ a.product__text {
     border: none;
   }
 }
-.card__badge {
-	top: 100%;
-	right: 50%;
-	transform: translate(-50%);
-	display: block;
-}

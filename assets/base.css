@@ -3148,9 +3148,9 @@ details-disclosure > details {
   }
 }
 
-.card__badge {
-	top: 50%;
-	left: 50%;
+.collection .product-sold-out .card__badge {
+	top: 85%;
+	left: 100%;
 	transform: translate(-50%);
 	display: block;
 }
