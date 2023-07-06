@@ -3148,13 +3148,13 @@ details-disclosure > details {
   }
 }
 
-.collection .product-sold-out .card__badge {
+.product-sold-out .card__badge {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%);
 	display: flex;
 }
 
-.collection .product-sold-out .card__inner > div:first-of-type {
+.product-sold-out .card__inner > div:first-of-type {
 	opacity: 0.5;
 }
