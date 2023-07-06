@@ -3147,14 +3147,3 @@ details-disclosure > details {
     100% { transform: rotate(360deg) translateX(1em) rotate(-360deg) scale(1.2); }
   }
 }
-
-.collection .product-sold-out .card__badge {
-	top: 85%;
-	left: 100%;
-	transform: translate(-50%);
-	display: block;
-}
-
-.collection .product-sold-out .card__inner > div:first-of-type {
-	opacity: 1;
-}
