@@ -3164,13 +3164,3 @@ details-disclosure > details {
   animation: fade-in-out 2s infinite;
 }
 
-/* Adjust the colors and other properties as needed for the orb animation */
-.product__inventory svg circle:first-child {
-  fill: rgb(238, 148, 65, 0.3); /* Change to the desired color */
-  stroke: rgb(255, 255, 255);
-  stroke-width: 1;
-}
-
-.product__inventory svg circle:last-child {
-  fill: rgb(238, 148, 65); /* Change to the desired color */
-}
