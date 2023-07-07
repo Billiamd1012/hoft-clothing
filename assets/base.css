@@ -3161,6 +3161,6 @@ details-disclosure > details {
 }
 
 .product__inventory svg circle:first-child {
-  animation: pulsegentle 2.5s ease-in-out infinite;
+  animation: 2.5s infinite pulsegentle; 
   transition: opacity .35s ease-in-out;
 }
