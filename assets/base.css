@@ -3147,3 +3147,30 @@ details-disclosure > details {
     100% { transform: rotate(360deg) translateX(1em) rotate(-360deg) scale(1.2); }
   }
 }
+/* Glowing orb animation */
+@keyframes fade-in-out {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.product__inventory svg circle:first-child {
+  animation: fade-in-out 2s infinite;
+}
+
+/* Adjust the colors and other properties as needed for the orb animation */
+.product__inventory svg circle:first-child {
+  fill: rgb(238, 148, 65, 0.3); /* Change to the desired color */
+  stroke: rgb(255, 255, 255);
+  stroke-width: 1;
+}
+
+.product__inventory svg circle:last-child {
+  fill: rgb(238, 148, 65); /* Change to the desired color */
+}
