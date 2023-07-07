@@ -3163,13 +3163,6 @@ details-disclosure > details {
   }
 }
 
-.product__inventory svg {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .product__inventory svg circle:first-child {
   animation: fade-in-out 2s ease-in-out infinite;
 }
