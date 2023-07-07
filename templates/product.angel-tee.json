@@ -50,6 +50,7 @@
         },
         "0b336e97-bb55-42a1-8534-8059c5ec5308": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "vertical",
             "icon_1": "lightning_bolt",
