@@ -3161,6 +3161,6 @@ details-disclosure > details {
 }
 
 .product__inventory svg circle:first-child {
-  animation: fade-in-out 2s infinite;
+  animation: fade-in-out 3s infinite;
 }
 
