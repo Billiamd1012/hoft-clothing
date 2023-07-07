@@ -3160,7 +3160,5 @@ details-disclosure > details {
   }
 }
 
-.product__inventory svg circle:first-child {
-  animation: pulsegentle 2.5s infinite;
-}
+
 
