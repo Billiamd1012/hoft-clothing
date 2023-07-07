@@ -3148,7 +3148,7 @@ details-disclosure > details {
   }
 }
 /* Glowing orb animation */
-@keyframes pulsegentle {
+@keyframes fade-in-out {
   0% {
     opacity: 0;
   }
@@ -3161,6 +3161,6 @@ details-disclosure > details {
 }
 
 .product__inventory svg circle:first-child {
-  animation: pulsegentle 2.5s infinite;
+  animation: fade-in-out 2.5s infinite;
 }
 
