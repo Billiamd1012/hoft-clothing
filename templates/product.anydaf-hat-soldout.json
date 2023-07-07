@@ -83,6 +83,19 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "9ada5a89-45aa-45ee-9435-6fb210954b3c": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "View our new colourways!",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
         }
       },
       "block_order": [
@@ -97,7 +110,8 @@
         "buy_buttons",
         "008eb4d8-d3c2-44e0-bccf-087f9d35f609",
         "description",
-        "share"
+        "share",
+        "9ada5a89-45aa-45ee-9435-6fb210954b3c"
       ],
       "settings": {
         "enable_sticky_info": true,
