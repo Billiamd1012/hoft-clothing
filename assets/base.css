@@ -3167,7 +3167,7 @@ details-disclosure > details {
 
 .shopify-innovative-collection-widget {
   position: absolute;
-  top: 80%;
-  left: 50%;
+  top: 70%;
+  left: 70%;
   transform: translate(-50%, -50%);
 }
