@@ -3164,3 +3164,13 @@ details-disclosure > details {
   animation: 2.5s infinite pulsegentle; 
   transition: opacity .35s ease-in-out;
 }
+
+.shopify-innovative-collection-widget {
+  <style>
+  .center-me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style> 
+}
