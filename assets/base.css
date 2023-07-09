@@ -3164,13 +3164,3 @@ details-disclosure > details {
   animation: 2.5s infinite pulsegentle; 
   transition: opacity .35s ease-in-out;
 }
-
-/* collection preorder badge */
-
-<div class="shopify-innovative-collection-widget" 
-data-product-id="{{card_product.id}}" 
-data-product-handle="{{card_product.handle}}" 
-data-variant-id="{{card_product.variants[0].id}}" 
-data-product-available="{{card_product.available}}">
-  
-</div>
