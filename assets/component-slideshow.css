@@ -223,6 +223,5 @@ scroll-behavior: auto !important;
 }
 
 slideshow-component .slideshow.banner [aria-hidden="false"] {
-animation: fade !important;
-}
-/*
+animation: fadeIn 200ms, fadeOut 200ms 4900ms;
+/**/
