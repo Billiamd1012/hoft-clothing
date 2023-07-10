@@ -205,7 +205,7 @@ slideshow-component:not(.page-width) .slider-buttons {
   transform: scale(.8)
 }
 
-{% comment %}
+
 /* slideshow animation */
 slideshow-component .slideshow.banner{
 scroll-snap-type: none !important;
@@ -224,5 +224,4 @@ scroll-behavior: auto !important;
 
 slideshow-component .slideshow.banner [aria-hidden="false"] {
 animation: fadeIn 200ms, fadeOut 200ms 4900ms;
-}
-{% end comment %}
+/**/
