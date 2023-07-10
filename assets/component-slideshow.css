@@ -221,7 +221,8 @@ scroll-behavior: auto !important;
 0% { opacity: 1; }
 100% { opacity: 0.5; }
 }
-
+*/
 slideshow-component .slideshow.banner [aria-hidden="false"] {
-animation: fadeIn 200ms, fadeOut 200ms 4900ms;
-/**/
+animation: fade !important;
+}
+/*
