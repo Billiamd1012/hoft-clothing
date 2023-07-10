@@ -5,6 +5,7 @@
       "blocks": {
         "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/website_wall_3.png",
             "heading": "",
@@ -23,7 +24,6 @@
         },
         "636099ce-4c3b-4a04-99fd-5d4912765211": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/website_wall_2.png",
             "heading": "",
@@ -42,6 +42,7 @@
         },
         "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-0": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/website_wall.png",
             "heading": "",
@@ -595,6 +596,7 @@
     },
     "cfa033d2-44ce-4be2-92c3-8c489b4e84dd": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<style>\n.slideshow__slide{\n  opacity: 1;\n  transition: 2s;\n  transition-timing-function: ease-out;\n}\n.slideshow__slide[aria-hidden=\"false\"]{\n  opacity: 1;\n} \n.slider--everywhere{\n  scroll-behavior: initial;\n}\n<\/style>",
         "color_scheme": "background-1",
