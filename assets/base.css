@@ -3165,3 +3165,7 @@ details-disclosure > details {
   transition: opacity .35s ease-in-out;
 }
 
+/* Remove slideshow buttons */
+.slideshow__controls{
+display:none !important;
+}
