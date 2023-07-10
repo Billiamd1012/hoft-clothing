@@ -38,11 +38,47 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "636099ce-4c3b-4a04-99fd-5d4912765211": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "30fae918-25ef-42cf-afd5-f255712a5c1c": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-0",
-        "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-1"
+        "template--15848431255609__1cc30c67-8f85-49d2-a88b-73b7e556ad46-168839335950e21929-1",
+        "636099ce-4c3b-4a04-99fd-5d4912765211",
+        "30fae918-25ef-42cf-afd5-f255712a5c1c"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -538,7 +574,7 @@
     "cfa033d2-44ce-4be2-92c3-8c489b4e84dd": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.slideshow__slide{\n  opacity: 0.8;\n  transition: 2s;\n  transition-timing-function: ease-out;\n}\n.slideshow__slide[aria-hidden=\"false\"]{\n  opacity: 1;\n} \n.slider--everywhere{\n  scroll-behavior: initial;\n}\n<\/style>",
+        "custom_liquid": "<style>\n.slideshow__slide{\n  opacity: 0.7;\n  transition: 2s;\n  transition-timing-function: ease-out;\n}\n.slideshow__slide[aria-hidden=\"false\"]{\n  opacity: 1;\n} \n.slider--everywhere{\n  scroll-behavior: initial;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
