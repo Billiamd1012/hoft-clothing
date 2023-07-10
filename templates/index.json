@@ -534,6 +534,16 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "cfa033d2-44ce-4be2-92c3-8c489b4e84dd": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<style>\n.slideshow__slide{\n  opacity: 0;\n  transition: 2s;\n  transition-timing-function: ease-out;\n}\n.slideshow__slide[aria-hidden=\"false\"]{\n  opacity: 1;\n} \n.slider--everywhere{\n  scroll-behavior: initial;\n}\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -550,6 +560,7 @@
     "40e50995-6aab-406c-ab5e-19f10e15d36b",
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
     "99821c87-62f1-4b69-8944-a8b299675208",
-    "6385f5e3-c7f1-4c50-ac1e-f18b79b00707"
+    "6385f5e3-c7f1-4c50-ac1e-f18b79b00707",
+    "cfa033d2-44ce-4be2-92c3-8c489b4e84dd"
   ]
 }
