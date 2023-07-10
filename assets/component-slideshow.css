@@ -206,7 +206,7 @@ slideshow-component:not(.page-width) .slider-buttons {
 }
 
 
-/* slideshow animation */
+/* slideshow animation 
 slideshow-component .slideshow.banner{
 scroll-snap-type: none !important;
 scroll-behavior: auto !important;
