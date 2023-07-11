@@ -127,11 +127,11 @@
         "template--15853925433401__9126c01f-a092-4994-b1a4-c1d130055235-1681735266e4805ad3-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6012.jpg",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/DD6FADF0-06A4-460D-843B-7B7BB4058FE3.png",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
