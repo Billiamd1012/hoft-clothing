@@ -3169,3 +3169,9 @@ details-disclosure > details {
 .slideshow__controls{
 display:none !important;
 }
+
+/* menu bold */
+.header__menu-item span,
+.header__active-menu-item {
+	font-weight: bold;
+}
