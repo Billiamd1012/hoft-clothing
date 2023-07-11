@@ -268,7 +268,7 @@
       "new_subtotal": "New subtotal",
       "note": "Leave us a message or special instructions!",
       "checkout": "Continue",
-      "empty": "Why haven't you bought something?",
+      "empty": "",
       "cart_error": "There was an error while updating your cart. Please try again.",
       "cart_quantity_error_html": "You can only add {{ quantity }} of this item to your cart.",
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
