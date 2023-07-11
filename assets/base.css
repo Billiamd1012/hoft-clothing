@@ -3176,6 +3176,6 @@ display:none !important;
 	font-weight: bold;
 }
 */
-/*
-.announcement-bar__message {font-size: 13px;}
-*/
+
+/* announcement bar font size */
+.announcement-bar__message {font-size: 14px;}
