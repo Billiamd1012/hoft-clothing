@@ -3170,8 +3170,9 @@ details-disclosure > details {
 display:none !important;
 }
 
-/* menu bold */
+/* menu bold 
 .header__menu-item span,
 .header__active-menu-item {
-	font-weight: 100;
+	font-weight: bold;
 }
+*/
