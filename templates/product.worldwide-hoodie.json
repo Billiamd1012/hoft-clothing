@@ -41,6 +41,7 @@
         },
         "1de4ccc0-c345-4899-8279-736a6152dd96": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "From the \"Common To The Incomparable\"."
           }
@@ -49,7 +50,7 @@
           "type": "inventory",
           "settings": {
             "text_style": "body",
-            "inventory_threshold": 4,
+            "inventory_threshold": 1,
             "show_inventory_quantity": false
           }
         },
