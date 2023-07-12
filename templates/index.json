@@ -530,12 +530,11 @@
     },
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15848431255609__4633f8ea-6d85-4d99-95c9-a3880cc5d159-16817359546ce12c55-0": {
           "type": "heading",
           "settings": {
-            "heading": "ANYDAF COLLECTION",
+            "heading": "OTHER ITEMS",
             "heading_size": "h1"
           }
         },
@@ -569,7 +568,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 68,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
