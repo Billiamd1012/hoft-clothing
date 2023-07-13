@@ -330,7 +330,7 @@
         "video": "shopify:\/\/files\/videos\/New Video Website.mp4",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
