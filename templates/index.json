@@ -364,6 +364,7 @@
     },
     "44dcdb00-0d93-438c-9133-28c042b8f148": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
