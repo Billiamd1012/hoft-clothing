@@ -3187,9 +3187,9 @@ display: none !important
 }
 
 @media (min-width: 768px) {
-  .password-logo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .password .password-logo {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
   }
 }
