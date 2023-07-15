@@ -3184,8 +3184,4 @@ display:none !important;
 /* password button center */
 .password-modal {
 display: none !important
-max-width: 354px !important;
-margin: 0 auto !important;
-padding: 3rem 3.2rem !important;
-text-align: center !important;
 }
