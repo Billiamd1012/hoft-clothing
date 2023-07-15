@@ -3179,3 +3179,12 @@ display:none !important;
 
 /* announcement bar font size */
 .announcement-bar__message {font-size: 14px;}
+
+
+/* password button center */
+.password-action-bar {
+max-width: 354px!important;
+margin: 0 auto!important;
+padding: 3rem 3.2rem!important;
+text-align: center!important;
+}
