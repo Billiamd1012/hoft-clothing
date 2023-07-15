@@ -3185,7 +3185,7 @@ display:none !important;
 .password-modal {
 display: none !important
 }
-
+/*
 @media (min-width: 768px) {
   .password .password-logo {
     display: flex !important;
@@ -3193,3 +3193,4 @@ display: none !important
     align-items: center !important;
   }
 }
+*/
