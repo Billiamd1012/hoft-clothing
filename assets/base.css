@@ -3182,16 +3182,7 @@ display:none !important;
 .announcement-bar__message {font-size: 14px;}
 
 
-/* password button center */
+/* removing early access button */
 .password-modal {
 display: none !important
 }
-/*
-@media (min-width: 768px) {
-  .password .password-logo {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-  }
-}
-*/
