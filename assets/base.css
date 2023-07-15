@@ -3185,3 +3185,7 @@ display:none !important;
 .password-modal {
 display: none !important
 }
+
+.password-logo {
+position: middle
+}
