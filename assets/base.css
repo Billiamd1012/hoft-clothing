@@ -692,10 +692,10 @@ a:not([href]) {
   display: none;
 }
 
-/* removing the header line password page
+/* removing the header line password page */
 hr {
   border: none;
-  height: 0.1rem;
+/*  height: 0.1rem; */
   background-color: rgba(var(--color-foreground), 0.2);
   display: block;
   margin: 5rem 0;
@@ -706,7 +706,7 @@ hr {
     margin: 7rem 0;
   }
 }
-*/
+
 .full-unstyled-link {
   text-decoration: none;
   color: currentColor;
