@@ -3188,10 +3188,4 @@ display: none !important
 }
 */
 
-.mogul__toggle {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 30px;
-}
    
