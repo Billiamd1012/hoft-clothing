@@ -12,6 +12,7 @@
             "show_estimated_delivery_time": true,
             "show_carrier_info": true,
             "show_tracking_number": true,
+            "link_to_carrier_website": true,
             "show_history": true,
             "show_package_info": true,
             "show_reorder_button": true,
@@ -28,6 +29,7 @@
         },
         "f6a7f8ab-26e8-4a4e-82b1-bac977963134-1689600413495": {
           "type": "shopify:\/\/apps\/track123-order-tracking-upsell\/blocks\/product-recommendations\/60c49c11-a7c0-49a0-861e-2f84d2f294e6",
+          "disabled": true,
           "settings": {
             "product_recommendations_layout": "grid",
             "product_recommendations_nums": 10,
