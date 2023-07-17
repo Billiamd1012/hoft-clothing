@@ -3187,3 +3187,11 @@ display:none !important;
 display: none !important
 }
 */
+
+.mogul__toggle-open {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+   
