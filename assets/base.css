@@ -3188,7 +3188,7 @@ display: none !important
 }
 */
 
-.mogul__toggle-open {
+.mogul__toggle {
     display: flex;
     justify-content: center;
     align-items: center;
