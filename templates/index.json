@@ -291,6 +291,77 @@
         "show_text_below": false
       }
     },
+    "2b99cd55-84af-4311-894d-4b9f00905e2f": {
+      "type": "featured-product",
+      "blocks": {
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-0",
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-1",
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-2",
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-3",
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-4",
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-5",
+        "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-6"
+      ],
+      "settings": {
+        "product": "hoft-butterfly-hoodie-design",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e81dd83d-b8ef-4e95-baba-ddbedaf59daa": {
       "type": "rich-text",
       "blocks": {
@@ -712,6 +783,7 @@
     "31028439-295e-47f8-b6d7-5524594dca9a",
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77",
     "image_banner",
+    "2b99cd55-84af-4311-894d-4b9f00905e2f",
     "e81dd83d-b8ef-4e95-baba-ddbedaf59daa",
     "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12",
     "44dcdb00-0d93-438c-9133-28c042b8f148",
