@@ -128,7 +128,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_9311_4.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
