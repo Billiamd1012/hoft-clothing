@@ -16,6 +16,7 @@
             "show_history": true,
             "show_package_info": true,
             "show_reorder_button": true,
+            "search_btn_radius": 10,
             "search_btn_label_color": "",
             "search_btn_background_color": "",
             "search_btn_hover_color": "",
