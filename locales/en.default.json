@@ -1,7 +1,7 @@
 {
   "general": {
     "password_page": {
-      "login_form_heading": "Enter using VIP password:",
+      "login_form_heading": "Early Access Entry:",
       "login_password_button": "HOFT VIP",
       "login_form_password_label": "Password",
       "login_form_password_placeholder": "Enter using VIP password",
