@@ -2,7 +2,7 @@
   "general": {
     "password_page": {
       "login_form_heading": "Enter using VIP password:",
-      "login_password_button": "HOFT VIP",
+      "login_password_button": "VIP",
       "login_form_password_label": "Password",
       "login_form_password_placeholder": "Password is sent out seperately.",
       "login_form_error": "Incorrect.",
