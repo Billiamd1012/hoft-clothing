@@ -319,6 +319,12 @@
             "picker_type": "button"
           }
         },
+        "1be927e7-eb24-4f04-b9cb-314982cd9e72": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<strong> Thank you <\/strong> to all the worldwide customers which have supported us and joined our family!"
+          }
+        },
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-4": {
           "type": "quantity_selector",
           "disabled": true,
@@ -345,6 +351,7 @@
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-1",
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-2",
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-3",
+        "1be927e7-eb24-4f04-b9cb-314982cd9e72",
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-4",
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-5",
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-6"
