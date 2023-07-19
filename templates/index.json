@@ -321,11 +321,13 @@
         },
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-4": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-5": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
