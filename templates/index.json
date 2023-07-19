@@ -409,7 +409,8 @@
     "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12": {
       "type": "featured-collection",
       "custom_css": [
-        ".card__information {display: none;}"
+        ".price {display: none ;}",
+        ".card__information {padding-bottom: 25px;}"
       ],
       "settings": {
         "title": "",
