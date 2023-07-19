@@ -293,7 +293,6 @@
     },
     "2b99cd55-84af-4311-894d-4b9f00905e2f": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-0": {
           "type": "text",
@@ -349,7 +348,7 @@
         "template--15848431255609__2b99cd55-84af-4311-894d-4b9f00905e2f-1689608821df5b416d-6"
       ],
       "settings": {
-        "product": "hoft-butterfly-hoodie-design",
+        "product": "hoft-worldwide-hoodie",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
