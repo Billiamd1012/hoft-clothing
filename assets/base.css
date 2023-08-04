@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Akira Expanded';
+    src: url('./AkiraExpanded-SuperBold.woff2') format('woff2'),
+        url('./AkiraExpanded-SuperBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 /* Color custom properties */
 
 :root,
@@ -406,6 +416,7 @@ body,
 }
 
 .text-body {
+  font-family: 'Akira Expanded';
   font-size: 1.5rem;
   letter-spacing: 0.06rem;
   line-height: calc(1 + 0.8 / var(--font-body-scale));
