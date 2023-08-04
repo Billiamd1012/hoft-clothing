@@ -333,12 +333,11 @@
     },
     "e81dd83d-b8ef-4e95-baba-ddbedaf59daa": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0": {
           "type": "heading",
           "settings": {
-            "heading": "ANYDAF COLLECTION",
+            "heading": "ANYDAF BY HOFT",
             "heading_size": "h1"
           }
         },
