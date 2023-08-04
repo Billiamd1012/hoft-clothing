@@ -433,12 +433,11 @@
     },
     "524d2a31-e4bc-4c7b-b64e-6d832de1d35a": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--15848431255609__524d2a31-e4bc-4c7b-b64e-6d832de1d35a-168260211249c6f828-0": {
           "type": "heading",
           "settings": {
-            "heading": "PROJECT ANGEL",
+            "heading": "CLASSICS BY HOFT",
             "heading_size": "h1"
           }
         },
@@ -472,7 +471,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 12,
         "padding_bottom": 0
       }
     },
