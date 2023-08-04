@@ -210,7 +210,13 @@
         font-style: var(--font-body-style);
         font-weight: var(--font-body-weight);
       }
+{% comment %} new font {% endcomment %}
+      @font-face { 
+      font-family: 'Ethnocentric';
+      src: url(https://cdn.shopify.com/s/files/1/0445/3721/7182/files/ethnocentric.woff?v=1671725840) format('woff2');
+      } 
 
+      
       @media screen and (min-width: 750px) {
         body {
           font-size: 1.6rem;
