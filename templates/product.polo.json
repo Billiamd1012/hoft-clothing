@@ -118,14 +118,14 @@
         "template--15848431681593__d74ee8af-53b7-4a1c-a799-04d15ffa548a-1681735266e4805ad3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Pick your polo",
             "heading_size": "h1"
           }
         },
         "template--15848431681593__d74ee8af-53b7-4a1c-a799-04d15ffa548a-1681735266e4805ad3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Choose your favourite from the eye-catching blue or pink AnyDaf Polos, to our signature Golf Polos in Navy or Green! Perfect for summer rounds and cold drinks with mates.<\/p>",
             "text_style": "body"
           }
         },
