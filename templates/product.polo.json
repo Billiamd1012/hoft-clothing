@@ -32,6 +32,12 @@
           "settings": {
           }
         },
+        "b3325a03-ae72-4f48-adba-13f83d7b898c": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Please note this product is a pre-order and will be fulfilled within 4 weeks!"
+          }
+        },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
           "type": "inventory",
           "settings": {
@@ -67,6 +73,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "b3325a03-ae72-4f48-adba-13f83d7b898c",
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
