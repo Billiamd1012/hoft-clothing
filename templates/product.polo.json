@@ -34,6 +34,7 @@
         },
         "b3325a03-ae72-4f48-adba-13f83d7b898c": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "Please note this product is a pre-order and will be fulfilled within 2-3 weeks!"
           }
