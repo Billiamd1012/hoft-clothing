@@ -44,9 +44,8 @@
         },
         "e3910e00-b6d8-45a4-a8c5-3413ad4d5545": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "Please Note: This product is on pre-order and will be shipped out"
+            "custom_liquid": "Please Note: This product is on pre-order and will be shipped out 28th-30th of December."
           }
         },
         "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
