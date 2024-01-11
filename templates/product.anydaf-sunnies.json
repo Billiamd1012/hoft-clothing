@@ -29,8 +29,13 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {
+          }
+        },
+        "custom_liquid_jQ3PWt": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p style=\"font-size:16px; margin:0; padding:0; color:black;\">\n    <span style=\"height:8px; width:8px; background-color:#C30010; border-radius:50%; display:inline-block; animation:blinking 1.5s infinite;\"><\/span>\n    <span style=\"color:#C30010;\">Please note:<\/span> Orders with sunglasses will be shipped out after the 17th of January. \n<\/p>\n\n<style>\n@keyframes blinking {\n    0% { opacity: 1.0; }\n    50% { opacity: 0.0; }\n    100% { opacity: 1.0; }\n}\n<\/style>"
           }
         },
         "ae49653c-7530-4de8-b35c-5d76ee41f661": {
@@ -38,14 +43,6 @@
           "disabled": true,
           "settings": {
             "custom_liquid": "{% if product.variants.first.inventory_quantity <100 %}\n\n<p>Only <strong>{{product.variants.first.inventory_quantity }}<\/strong> left in stock!<\/p>\n\n{% endif %}"
-          }
-        },
-        "0310059d-9a60-4ce6-bc79-9f6c20223fa0": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 4,
-            "show_inventory_quantity": false
           }
         },
         "buy_buttons": {
@@ -75,8 +72,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "custom_liquid_jQ3PWt",
         "ae49653c-7530-4de8-b35c-5d76ee41f661",
-        "0310059d-9a60-4ce6-bc79-9f6c20223fa0",
         "buy_buttons",
         "description",
         "share"
@@ -144,7 +141,6 @@
     },
     "8acc9288-1924-415a-99ff-f13adc0a2435": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--15853920354361__8acc9288-1924-415a-99ff-f13adc0a2435-168173481024cb4f19-0": {
           "type": "column",
@@ -169,6 +165,7 @@
         "template--15853920354361__8acc9288-1924-415a-99ff-f13adc0a2435-168173481024cb4f19-0",
         "template--15853920354361__8acc9288-1924-415a-99ff-f13adc0a2435-168173481024cb4f19-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -188,7 +185,6 @@
     },
     "4d4577ff-baf1-42d0-8c58-85ce5277db0d": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-0": {
           "type": "collapsible_row",
@@ -236,6 +232,7 @@
         "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-2",
         "template--15853920354361__4d4577ff-baf1-42d0-8c58-85ce5277db0d-16883947319f09992f-3"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "",
@@ -255,7 +252,7 @@
       "type": "apps",
       "blocks": {
         "e0861f8a-974e-45d3-a7a3-eb0037d1ea9d": {
-          "type": "shopify:\/\/apps\/trustoo-product-ali-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "settings": {
           }
         }
