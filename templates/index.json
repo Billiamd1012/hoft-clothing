@@ -271,10 +271,10 @@
         "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2": {
           "type": "button",
           "settings": {
-            "button_label": "Buy 5 Pack Bundle",
+            "button_label": "Buy 5 Pack Hat Bundle",
             "button_link": "shopify:\/\/products\/5-pack-bundle",
-            "button_style_secondary": true,
-            "button_label_2": "",
+            "button_style_secondary": false,
+            "button_label_2": "Buy 3 Pack Glasses Bundle",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -306,7 +306,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "anydaf-collection",
-        "products_to_show": 6,
+        "products_to_show": 10,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": false,
