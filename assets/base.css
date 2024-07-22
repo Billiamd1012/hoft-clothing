@@ -415,6 +415,7 @@ body,
 }
 
 h1,
+h2,
 h3,
 h4,
 h5,
@@ -424,7 +425,7 @@ h5,
 .h3,
 .h4,
 .h5 {
-  font-family: 'Akira Expanded' !important;
+  font-family: 'Akira Expanded';
   font-style: var(--font-heading-style);
   font-weight: var(--font-heading-weight);
   letter-spacing: calc(var(--font-heading-scale) * 0.06rem);
