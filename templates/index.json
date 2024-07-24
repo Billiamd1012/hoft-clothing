@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "ad9ad62b-9800-4752-aaad-0d710456f359": {
@@ -251,49 +260,6 @@
         "show_text_below": false
       }
     },
-    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ANYDAF BY HOFT",
-            "heading_size": "h1"
-          }
-        },
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "5 Pack Hat Bundle (Save $30)",
-            "button_link": "shopify:\/\/products\/5-pack-bundle",
-            "button_style_secondary": false,
-            "button_label_2": "Sunglasses Bundle (Save $10)",
-            "button_link_2": "shopify:\/\/products\/3-pack-glasses-bundle",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-0",
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-1",
-        "template--15848431255609__e81dd83d-b8ef-4e95-baba-ddbedaf59daa-1687775098fe13d1df-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12": {
       "type": "featured-collection",
       "custom_css": [
@@ -307,7 +273,7 @@
         "description_style": "body",
         "collection": "anydaf-collection",
         "products_to_show": 10,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -320,7 +286,7 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 28,
         "padding_bottom": 36
       }
     },
@@ -700,7 +666,6 @@
     "1cc30c67-8f85-49d2-a88b-73b7e556ad46",
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77",
     "image_banner",
-    "e81dd83d-b8ef-4e95-baba-ddbedaf59daa",
     "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12",
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
     "70ba49d0-c1f4-4da0-9d4c-014684fd9542",
