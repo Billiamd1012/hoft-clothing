@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -17,7 +26,7 @@
           }
         },
         "4c062a6c-884f-4ea9-89d9-e00e316d87ed": {
-          "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "type": "shopify:\/\/apps\/trustoo-io-reviews\/blocks\/star-rating-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "disabled": true,
           "settings": {
             "star_size": 16,
@@ -273,7 +282,7 @@
       "type": "apps",
       "blocks": {
         "fef696ba-d08e-45dd-a4f4-177b31dfec1a": {
-          "type": "shopify:\/\/apps\/trustoo-io-product-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "type": "shopify:\/\/apps\/trustoo-io-reviews\/blocks\/review-widget\/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "settings": {
           }
         }

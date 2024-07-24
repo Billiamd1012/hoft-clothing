@@ -260,6 +260,29 @@
         "show_text_below": false
       }
     },
+    "rich_text_WpJYMC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_i8PBxE": {
+          "type": "heading",
+          "settings": {
+            "heading": "ANYDAF COLLECTION",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_i8PBxE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12": {
       "type": "featured-collection",
       "custom_css": [
@@ -286,7 +309,7 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 28,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -666,6 +689,7 @@
     "1cc30c67-8f85-49d2-a88b-73b7e556ad46",
     "4bb2634a-a212-4e57-bbb7-2d9a760a7a77",
     "image_banner",
+    "rich_text_WpJYMC",
     "9c95abd4-f813-4aa2-8a08-bcb1b27f9d12",
     "4633f8ea-6d85-4d99-95c9-a3880cc5d159",
     "70ba49d0-c1f4-4da0-9d4c-014684fd9542",
