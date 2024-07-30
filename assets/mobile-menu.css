@@ -106,6 +106,9 @@
       .mobile-menu li > a .link-forward svg path,
       .mobile-menu li summary .link-forward svg path {
         stroke: var(--color-header-links, --color-accent); }
+    .mobile-menu li:hover{
+      background-color: rgba(0, 0, 0, 0.75);
+    }
   .mobile-menu li .link-container summary {
     width: 100%; }
   .no-js .mobile-menu li .link-container[open] > .sub-menu {
