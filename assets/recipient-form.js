@@ -17,41 +17,25 @@ if (!customElements.get('recipient-form')) {
       this.addEventListener('change', this.onChange.bind(this));
     }
 
-    cartUpdateUnsubscriber = undefined;
-    variantChangeUnsubscriber = undefined;
-    cartErrorUnsubscriber = undefined;
-
     connectedCallback() {
-      this.cartUpdateUnsubscriber = subscribe(PUB_SUB_EVENTS.cartUpdate, (event) => {
-        if (event.source === 'product-form' && event.productVariantId.toString() === this.currentProductVariantId) {
-          this.resetRecipientForm();
-        }
-      });
-
-      this.variantChangeUnsubscriber = subscribe(PUB_SUB_EVENTS.variantChange, (event) => {
-        if (event.data.sectionId === this.dataset.sectionId) {
-          this.currentProductVariantId = event.data.variant.id.toString();
-        }
-      });
-
-      this.cartUpdateUnsubscriber = subscribe(PUB_SUB_EVENTS.cartError, (event) => {
-        if (event.source === 'product-form' && event.productVariantId.toString() === this.currentProductVariantId) {
-          this.displayErrorMessage(event.message, event.errors);
-        }
-      });
+      document.addEventListener("cart:item-added", this.onCartAdded.bind(this));
+      document.addEventListener("product:variant-change", this.onVariantChange.bind(this));
+      document.addEventListener("product:variant-error", this.onVariantError.bind(this));
     }
 
-    disconnectedCallback() {
-      if (this.cartUpdateUnsubscriber) {
-        this.cartUpdateUnsubscriber();
+    onCartAdded(event) {
+      if (event.detail.product.id.toString() === this.currentProductVariantId) {
+        this.resetRecipientForm();
       }
-
-      if (this.variantChangeUnsubscriber) {
-        this.variantChangeUnsubscriber();
+    }
+    onVariantChange(event) {
+      if (event.detail.sectionId === this.dataset.sectionId) {
+        this.currentProductVariantId = event.detail.variant.id.toString();
       }
-
-      if (this.cartErrorUnsubscriber) {
-        this.cartErrorUnsubscriber();
+    }
+    onVariantError(event) {
+      if (event.detail.source === 'product-form' && event.detail.productVariantId.toString() === this.currentProductVariantId) {
+        this.displayErrorMessage(event.detail.message, event.detail.errors);
       }
     }
 
@@ -74,13 +58,13 @@ if (!customElements.get('recipient-form')) {
       if (typeof body === 'object') {
         this.errorMessage.innerText = this.defaultErrorHeader;
         return Object.entries(body).forEach(([key, value]) => {
-          const errorMessageId = `RecipientForm-${ key }-error-${ this.dataset.sectionId }`
+          const errorMessageId = `RecipientForm-${ key }-error-${ this.dataset.sectionId }`;
           const fieldSelector = `#Recipient-${ key }-${ this.dataset.sectionId }`;
           const placeholderElement = this.querySelector(`${fieldSelector}`);
           const label = placeholderElement?.getAttribute('placeholder') || key;
           const message = `${label} ${value}`;
           const errorMessageElement = this.querySelector(`#${errorMessageId}`);
-          const errorTextElement = errorMessageElement?.querySelector('.error-message')
+          const errorTextElement = errorMessageElement?.querySelector('.error-message');
           if (!errorTextElement) return;
 
           if (this.errorMessageList) {
